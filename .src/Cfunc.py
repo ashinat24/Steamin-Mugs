@@ -243,7 +243,7 @@ def cdetails_n_mailoff(cname):
     print("")
     
 
-cdetails_n_mailon("tanisha")
+
    
 
     
