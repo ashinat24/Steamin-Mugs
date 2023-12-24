@@ -1,0 +1,31 @@
+﻿____________________________________________________________________________________________________________________________________________________________________________
+ |SNo. |       MENU ITEM          |                            DESCRIPTION                             |          WARNING/DISCLAIMER                   | PRICE(US DOLLARS)| 
+ |-----|--------------------------|--------------------------------------------------------------------|-----------------------------------------------|------------------|
+ | B1. |       ITALIAN SODA       |      Flavoured syrup: club soda                                    |    ALL YOU NEED IS A KICK RIGHT NOW!          |      8           |
+ | B2. |       CREMOSA            |      Flavoured syrup: cream club soda                              |    STRONGGGGGG!                               |      10          |
+ | B3. |       HOT CHOCOLATE      |      Chocolate - Vanilla - Steamed Milk - Whipped Cream            |    CHOCOLATE FOR LIFE!                        |      15          |
+ | B4. |  HOT APPLE EXPLOSION     |      Apple Cider - Cinnamon - Caramel - Whipped Cream              |    WATING TO EXPLODE IN YOUR STOMACH!         |      18          |
+ | B5. |        OREO SHAKE        |      OREO+MILK                                                     |    I M JUST GONNA SHAKE SHAKE SHAKE!          |      15          |   
+ | B6. |       FROZEN DRINKS      |  Blended drinks to cool you off during those long hot summer days  |                                               |                  |   
+ |     |__________________________|____________________________________________________________________|_______________________________________________|__________________|
+ |_____|___1._|__SMOOTHIE:________|_______________________________________________________________________________________________________________________________________|
+ |     | B61A |  A.Strawberry       |                                                                                                                  |      17          |
+ |     | B61B |  B.Banana           |                                                                                                                  |      12          |
+ |     | B61C |  C.Tropical Sunshine|                                                                                                                  |      23          | 
+ |     | B61D |  D.4-Berry          |                                                                                                                  |      20          |
+ |     | B61E |  E.Lemonade         |                                                                                                                  |      10          |
+ |     | B61F |  F.Mango Tropics    |                                                                                                                  |      18          |
+ |     | B61G |  G.Peach-Pear-      |                                                                                                                  |      25          |
+ |     |      |      Apricot        |                                                                                                                  |                  |
+ |     | B61H |  H.Pineapple        |                                                                                                                  |                  |
+ |     |      |      Paradise       |                                                                                                                  |      22          |
+ |     |______|_____________________|__________________________________________________________________________________________________________________|__________________|
+ |_____|_2.___|__MOCKTAILS:_________|__________________________________________________________________________________________________________________|__________________|
+ |     | B62A |  A. MANGO MULE      |                                                                                                                  |      26          |
+ |     | B62B |  B. MAGIC APPLE     |                                                                                                                  |      25          |
+ |     | B62C |  C. SHIRLEY GINGER  |                                                                                                                  |      28          |
+ |     | B62D |  D.VIRGIN WATERMELON|                                                                                                                  |      30          |
+ |     |      |    MARGARITA        |                                                                                                                  |                  |
+ |     | B62E |  E.BERRY BURLESQUE  |                                                                                                                  |      26          |
+ |     | B62F |  F.LAVENDER LEMONADE|                                                                                                                  |      24          |
+ |_____|______|_____________________|__________________________________________________________________________________________________________________|__________________|                   

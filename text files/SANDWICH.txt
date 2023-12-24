@@ -1,0 +1,11 @@
+       _________________________________________________________________________________________________________________________________________________________________________
+       | SNo.|       MENU ITEMS      |               DESCRIPTION                                          |    DISCLAIMER/WARNING                         |PRICE(IN US DOLLARS)| 
+       |-----|-----------------------|--------------------------------------------------------------------|-----------------------------------------------|--------------------|
+       | D1. |CHEESE GRILLED SANDWICH|      Cheese + bread + corn and other veggies )                     |    GOOD SANDWICH FOR GOOD MOMENT     B-)      |      15            |
+       | D2. |     MAYO SANDWICH     |       Mayo + bread + veggies.                                      |    DESIRE MEETS SANDWICH!   ;-) |             |      16            |
+       | D3. |    MAKHANI GRILLED    |      Fresh bread with stuffing, grilled for better taste.          |   FINDING HAPPINESS BETWEEN THE TWO LAYERS!^_^|      18            |
+       |     |      SANDWICH         |                                                                    |                                               |                    |
+       | D4. |    PANEER GRILLED     |      Fresh bread with stuffed paneer and veggies.                  |    FROM THE GRILL TO YOUR STOMACH!    :P      |      17            |
+       |     |        SANDWICH       |                                                                    |                                               |                    |
+       | D5. |   ALOO TIKKI SANDWICH |      Potato peeking out from between bread slices.                 |    ALOO= YOUR LOVE + MY LOVE !                |      14            |
+       |_____|_______________________|____________________________________________________________________|_______________________________________________|____________________|

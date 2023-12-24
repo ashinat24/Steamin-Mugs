@@ -1,0 +1,9 @@
+       _________________________________________________________________________________________________________________________________________________________________________
+       | SNo.|       MENU ITEMS      |               DESCRIPTION                                          |    DISCLAIMER/WARNING                         |PRICE(IN US DOLLARS)| 
+       |-----|-----------------------|--------------------------------------------------------------------|-----------------------------------------------|--------------------|
+       | E1. |    VEGETABLE SOUP     |           Mix of veggies                                           |    A TRENDY SPOON OF THE TOWN!      B-)       |        12          |
+       | E2. |     TOMATO SOUP       |          Tomato+ Additional flavour                                |    TANGY AND SWEET!   ;-)                     |        10          |
+       | E3. |   SWEET CORN SOUP     |          Sweet corn + pepper + herbs                               |    CREAMY ENOUGH FOR YOUR TASTE BUDS!   ^_^   |        13          |
+       | E4. |   HOT AND SOUR SOUP   |        Spring onion,ginger,grated carrots and asian spices.        |    HOTNESS ON FLEAK!  :P                      |        15          |
+       | E5. |     MUSHROOM SOUP     |           Mushroom and pepper                                      |    FOR PEOPLE WHO WANT MORE!!  ^^^^O^^^^      |        16          |
+       |_____|_______________________|____________________________________________________________________|_______________________________________________|____________________|

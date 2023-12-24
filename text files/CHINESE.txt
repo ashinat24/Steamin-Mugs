@@ -1,0 +1,26 @@
+   ___________________________________________________________________________________
+   | SNo. |    MENU ITEMS     |       WARNING/DISCLAIMER       |   PRICE(US DOLLARS) |
+   |------|-------------------|--------------------------------|---------------------|
+   |  G1. |     MOMOS         |    CLOSE YOUR EYES. WHAT YOU   |                     |
+   |______|___________________|____SEE AT THE MOMENT IS MOMOS!_|_____________________|
+   | G1A  |  A. VEG MOMOS     |                                |         13          |
+   | G1B  |  B. FRIED MOMOS   |                                |         15          |
+   | G1C  |  C. GRAVY MOMOS   |                                |         16          |
+   | G1D  |  D. PANEER MOMOS  |                                |         17          |
+   |_G1E__|__E. CHICKEN MOMOS_|________________________________|_________20__________|
+   |  G2. |    CHOWMEIN       |  LONG NOODLES FOR LONG LIFE ;) |         12          |
+   |  G3. |     RAMEN         |       HOT!!!  :o               |         13          |
+   |  G4. | GOLDEN FRIED      |   CRISPY AND CRUCNHY ;P        |         17          |
+   |      |       BABY CORN   |                                |                     |
+   |  G5. |  MANCHOW SOUP     |       MAN CHAHE MORE! :]       |         15          |
+   |______|___________________|________________________________|_____________________|
+                   
+
+
+
+
+
+
+
+
+       

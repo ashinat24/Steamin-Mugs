@@ -1,0 +1,25 @@
+﻿
+ _________________________________________________________________________________________________________________________________________________________________________
+ | SNo.|       MENU ITEMS      |               DESCRIPTION                                          |    DISCLAIMER/WARNING                         |PRICE(IN US DOLLARS)| 
+ |-----|-----------------------|--------------------------------------------------------------------|-----------------------------------------------|--------------------|
+ | A1. |       AMERICANO       |      Shot of espresso with hot water                               |    PROVOKING BRAIN CELLS      B-)             |     10             |
+ | A2. |       LATTE           |      Espresso with steamed milk                                    |    RELAX AND LET THE DRINK DO ITS WORK    ;-) |     10             |
+ | A3. |    CAPPUCHINO         |      Espresso with a thick layer of foamy steamed milk             |    CAP CAP CAPPUCHINO!  :P                    |     12             |
+ | A4. |       FRAPPE          |      Cold coffee                                                   |    GIVING YOU THE MOST OF HILLS!  ^^^^O^^^^   |      8             |
+ | A5. |       VANILLA COFFEE  |      Vanilla flavoured Frappe                                      |    VROOM VROOM VANILLA!   >_<                 |     15             |
+ | A6. |       GREEN TEA       |      Steamed water with fresh essence of tea leaves                |    FEEL FRESH!  O.O                           |      5             |
+ | A7. |       MILK TEA        |      Doodh wali chai                                               |    CHEERS WITH YOU!!    ;D                    |     10             | 
+ | A8. |       BLACK TEA       |      Tea made of black dried leaves, strong in taste               |    WHAT BREWS IN YOU IS TEA RIGHT NOW!   <3   |      3             |
+ |_____|_______________________|____________________________________________________________________|_______________________________________________|____________________|
+
+
+
+
+
+
+
+
+
+
+
+                                                                   

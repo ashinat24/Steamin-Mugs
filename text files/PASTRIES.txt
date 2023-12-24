@@ -1,0 +1,12 @@
+   ___________________________________________________________________________________
+   | SNo. |    MENU ITEMS     |       WARNING/DISCLAIMER       |   PRICE(US DOLLARS) |
+   |------|-------------------|--------------------------------|---------------------|
+   |  H1. | PINEAPPLE FRUIT   |  BAKED ESPECIALLY FOR YOU! :)  |        20           |
+   |      |      PASTRY       |                                |                     |
+   |  H2. | BLACKFOREST PASTRY|   WE CAN BAKE IT RIGHT   ;)    |        23           |
+   |  H3. |  CHOCOLATE CHIP   |   COUNT THE MEMORIES AND NOT   |        25           |
+   |      |           PASTRY  |            THE CALORIES!  ;O   |                     |
+   |  H4. |  TRUFFLE PASTRY   |  FEEL A SWEET EXPERIENCE! ;P   |        24           |
+   |  H5. | RED VELVET PASTRY |  YOU CAN STOP WHEN YOU WANT! :0|        27           |     
+   |______|___________________|________________________________|_____________________|
+

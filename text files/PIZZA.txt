@@ -1,0 +1,16 @@
+       _________________________________________________________________________________________________________________________________________________________________________
+       | SNo.|       MENU ITEMS      |               DESCRIPTION                                          |    DISCLAIMER/WARNING                         |PRICE(IN US DOLLARS)| 
+       |-----|-----------------------|--------------------------------------------------------------------|-----------------------------------------------|--------------------|
+       | C1. |       MARGHERITA      |      A hugely popular margherita, with a deliciously tangy single  |       CAN'T SAY NO!               ;)          |       18           |
+       |     |                       |                            cheese topping                          |                                               |                    |
+       | C2. |       FARM HOUSE      |      Overload of crunchy, crisp capsicum, succulent mushrooms      |       VEGGIES CAN BE FUN!         ^O^         |       20           |
+       |     |                       |                         and fresh tomatoes                         |                                               |                    |
+       | C3. |       PEPPY PANEER    |      Chunky paneer with crisp capsicum and spicy red pepper        |       QUITE A MOUTHFUL!           $_$         |       18           |
+       | C4. |    MEXICAN GREEN WAVE |  Loaded with crunchy onions, crisp capsicum, juicy tomatoes and    |                                               |                    |
+       |     |                       |   jalapeno with a liberal sprinkling of exotic Mexican herbs       |                                               |                    |  
+       | C5. |      CHEEESE AND CORN |      Cheese + Golden Corn                                          |       CHEESY PEESY!               :)          |       22           |
+       | C6. |       VEGGIE PARADISE |      Golden Corn, Black Olives, Capsicum & Red Paprika             |       MELT YOUR HEART INTO TWO!   ;P          |       20           |
+       | C7. | GOLDENCHICKEN DELIGHT |      Mmm! Barbeque chicken with a topping of golden corn loaded    |       WORTH ITS WEIGHT IN GOLD!   ^^^O^^^^    |       18           |
+       |     |                       |                 with extra cheese                                  |                                               |                    | 
+       |_____|_______________________|____________________________________________________________________|_______________________________________________|____________________|
+

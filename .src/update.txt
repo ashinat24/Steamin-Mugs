@@ -1,0 +1,9 @@
+1. Update price
+
+2. Update category
+
+3. Update item
+
+4. Update itemcode
+
+5. EXIT

@@ -1,0 +1,9 @@
+      _________________________________________________________________________________________________________________________________________________________________________
+       | SNo.|       MENU ITEMS      |               DESCRIPTION                                          |    DISCLAIMER/WARNING                         |PRICE(IN US DOLLARS)| 
+       |-----|-----------------------|--------------------------------------------------------------------|-----------------------------------------------|--------------------|
+       | F1. |      VEG BURGER       |      Veggies finding its way inside a BUN                          | A BALANCED DIET IS A BURGER IN BOTH HANDS! B-)|        15          |
+       | F2. |     CHEESE BURGER     |      Cheesy veggies stuffed inside a bun                           | A CHEESE BURGER IS A FOUNDATION OF            |        17          |
+       |     |                       |                                                                    |                 GENUINE HAPPINESS!)   ;-)     |                    |
+       | F3. |      TEXAS BURGER     |      Mayo plus veggies including peppers and onions with           |  LET' MAKE SOME BURGER MEMORIES!       ^_^    |        18          |
+       |     |                       |                                     loaded barbeque sauce          |                                               |                    |
+       |_____|_______________________|____________________________________________________________________|_______________________________________________|____________________|
