@@ -13,13 +13,13 @@ Welcome to Steamin' Mugs, a comprehensive restaurant ordering system developed u
 ### Retailer Side:
 - Sales Overview: Retailers can check weekly sales data to analyze performance.
 - Manage Inventory: Retailers have the ability to add, subtract, and update records and prices of items.
-- Email Notifications: Retailers receive email notifications for new customer orders, facilitating efficient order processing.
+- Email Notifications: Retailers receive email notifications regarding salary and other job and customer related stuff.
 
 ## Instructions for Running the Project:
 
 - Open Terminal/Command Prompt: Navigate to the project directory.
 - Ensure Dependencies: Make sure you have Python installed along with the necessary libraries (specified in requirements.txt).
-- Run Main Program: Execute the MAIN_PROGRAM.py file using the command python MAIN_PROGRAM.py.
+- Run Main Program: Execute the MAIN_PROGRAM.py file using the command python MAIN_PROGRAM.py in the src folder.
 - Enjoy Steamin' Mugs: Explore the interactive ordering system and experience the seamless integration of Python and MySQL.
 
 ## Dependencies:
